@@ -93,6 +93,7 @@ test_options = {
             "builtin_heap",
             "defheap",
             "run_tests",
+            "tjpgd_rgb565",
         ],
     },
     "OPTIONS_TEST_PUBLIC_API": {
